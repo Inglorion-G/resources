@@ -9,6 +9,10 @@ Resources about things I find interesting.
 ## *nix
 [Using `xargs`](https://shapeshed.com/unix-xargs/)
 
+## React
+
+[Create React App](https://github.com/facebook/create-react-app)
+
 ## D&D
 
 https://donjon.bin.sh/5e/
