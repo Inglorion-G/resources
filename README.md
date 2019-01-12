@@ -2,6 +2,7 @@
 Resources about things I find interesting.
 
 ## Rails
+[Modern Rails API stack + React](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
 [Destroy in forms without javascript](http://railscasts.com/episodes/77-destroy-without-javascript-revised?autoplay=true)
 
