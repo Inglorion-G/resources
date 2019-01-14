@@ -9,9 +9,17 @@ Resources about things I find interesting.
 ## *nix
 [Using `xargs`](https://shapeshed.com/unix-xargs/)
 
+## JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 ## React
 
 [Create React App](https://github.com/facebook/create-react-app)
+
+[React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+[React Guide](https://reactjs.org/docs/hello-world.html)
 
 ## D&D
 
