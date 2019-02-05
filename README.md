@@ -8,8 +8,10 @@ Resources about things I find interesting.
 
 [Rails + Nuxt integrating the FE and Rails API](https://medium.com/@fishpercolator/how-to-separate-frontend-backend-with-rails-api-nuxt-js-and-devise-jwt-cf7dd9da9d16)
 
-## *nix
+## Tools
 [Using `xargs`](https://shapeshed.com/unix-xargs/)
+
+[Hacker Tools](https://hacker-tools.github.io/)
 
 ## JavaScript
 
