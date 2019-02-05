@@ -36,3 +36,5 @@ https://rpgtinker.com/
 #### APIs
 
 [Postman API Docs](https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/)
+
+[Public APIs](https://github.com/toddmotto/public-apis)
