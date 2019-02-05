@@ -38,3 +38,7 @@ https://rpgtinker.com/
 [Postman API Docs](https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/)
 
 [Public APIs](https://github.com/toddmotto/public-apis)
+
+## Management
+
+[90 Day Plan](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
