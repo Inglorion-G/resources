@@ -31,6 +31,8 @@ https://donjon.bin.sh/5e/
 
 https://rpgtinker.com/
 
+[Creating a Compelling Villain](https://www.reddit.com/r/DnDBehindTheScreen/comments/a38dn7/creating_a_compelling_villain/)
+
 ## Software Development
 
 #### APIs
