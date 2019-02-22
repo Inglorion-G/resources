@@ -44,3 +44,5 @@ https://rpgtinker.com/
 ## Management
 
 [90 Day Plan](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
+
+[Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0)
