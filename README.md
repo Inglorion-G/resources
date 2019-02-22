@@ -13,6 +13,8 @@ Resources about things I find interesting.
 
 [Hacker Tools](https://hacker-tools.github.io/)
 
+[AWS Training](https://pages.awscloud.com/FreeDigitalTraining.html)
+
 ## JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
