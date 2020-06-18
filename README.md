@@ -37,6 +37,10 @@ https://rpgtinker.com/
 
 [Creating a Compelling Villain](https://www.reddit.com/r/DnDBehindTheScreen/comments/a38dn7/creating_a_compelling_villain/)
 
+## Making Stuff
+
+[Learn Electronics](https://www.allaboutcircuits.com/)
+
 ## Software Development
 
 #### APIs
