@@ -43,6 +43,8 @@ https://rpgtinker.com/
 
 ## Software Development
 
+[Teach Yourself CS](https://teachyourselfcs.com/)
+
 #### APIs
 
 [Postman API Docs](https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/)
