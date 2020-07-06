@@ -60,3 +60,5 @@ https://rpgtinker.com/
 ## Engineering Career Development
 
 [Staff Engineering Stories](https://staffeng.com/)
+
+[Mentorship Scaffold](https://blog.newrelic.com/culture/engineering-team-success/)
