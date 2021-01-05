@@ -43,6 +43,8 @@ https://rpgtinker.com/
 
 ## Software Development
 
+[Connections and Pools](https://sudhir.io/understanding-connections-pools/)
+
 [Teach Yourself CS](https://teachyourselfcs.com/)
 
 #### APIs
