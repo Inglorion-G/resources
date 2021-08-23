@@ -59,6 +59,8 @@ https://rpgtinker.com/
 
 [Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0)
 
+[Nonviolent Communication for Difficult Conversations](https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/)
+
 ## Engineering Career Development
 
 [Staff Engineering Stories](https://staffeng.com/)
