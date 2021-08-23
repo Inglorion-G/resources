@@ -17,7 +17,7 @@ Resources about things I find interesting.
 
 ## JavaScript
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+[Mozilla Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ## React
 
