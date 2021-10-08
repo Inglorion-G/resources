@@ -47,6 +47,10 @@ https://rpgtinker.com/
 
 [Teach Yourself CS](https://teachyourselfcs.com/)
 
+#### AWS
+
+[Serverless Stack](https://serverless-stack.com/)
+
 #### APIs
 
 [Postman API Docs](https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/)
