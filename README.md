@@ -47,6 +47,10 @@ https://rpgtinker.com/
 
 [Teach Yourself CS](https://teachyourselfcs.com/)
 
+#### Design Patterns
+
+[Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
 #### AWS
 
 [Serverless Stack](https://serverless-stack.com/)
