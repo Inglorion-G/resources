@@ -71,6 +71,8 @@ https://rpgtinker.com/
 
 [SPACE of Developer Productivity (Framework)](https://queue.acm.org/detail.cfm?id=3454124)
 
+[How to Succeed Quickly in a New Role](https://hbr.org/2021/11/how-to-succeed-quickly-in-a-new-role)
+
 ## Engineering Career Development
 
 [Staff Engineering Stories](https://staffeng.com/)
