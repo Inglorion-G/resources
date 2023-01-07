@@ -61,7 +61,7 @@ https://rpgtinker.com/
 
 [Public APIs](https://github.com/toddmotto/public-apis)
 
-## Management
+## Engineering Management
 
 [90 Day Plan](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
@@ -76,3 +76,7 @@ https://rpgtinker.com/
 [Staff Engineering Stories](https://staffeng.com/)
 
 [Mentorship Scaffold](https://blog.newrelic.com/culture/engineering-team-success/)
+
+## Product Development
+
+[Opportunity Solution Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
