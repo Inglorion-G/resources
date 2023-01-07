@@ -69,6 +69,8 @@ https://rpgtinker.com/
 
 [Nonviolent Communication for Difficult Conversations](https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/)
 
+[SPACE of Developer Productivity (Framework)](https://queue.acm.org/detail.cfm?id=3454124)
+
 ## Engineering Career Development
 
 [Staff Engineering Stories](https://staffeng.com/)
